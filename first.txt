@@ -1,6 +1,1 @@
-Git is a version control system.
-Git is free software.
-2222222
-experimental222222ddd
-888888888
-6-22
+合并之后的
